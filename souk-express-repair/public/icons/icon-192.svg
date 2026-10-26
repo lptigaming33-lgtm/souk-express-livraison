@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" fill="none">
+  <rect width="192" height="192" rx="44" fill="#111111"/>
+  <rect x="12" y="12" width="168" height="168" rx="34" fill="#FF5A00"/>
+  <path d="M96 36L134 62V118C134 132 117 148 96 156C75 148 58 132 58 118V62L96 36Z" fill="#111111"/>
+  <text x="96" y="106" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-weight="900" font-size="38">SE</text>
+  <text x="96" y="132" text-anchor="middle" fill="#FF5A00" font-family="system-ui, sans-serif" font-weight="800" font-size="14" letter-spacing="2">AGADIR</text>
+</svg>
